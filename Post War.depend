@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582820144 source:c:\users\gvn-9\onedrive\belgeler\codeblocks\post war\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
